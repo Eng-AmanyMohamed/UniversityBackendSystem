@@ -6,8 +6,7 @@ This Spring Boot project is built as part of the **Banque Misr Backend Internshi
 - Java 17+
 - Spring Boot
 - Spring Data JPA
-- H2 (for in-memory testing)
-- Lombok (optional)
+- Mysql Database
 - Postman / cURL for testing
 
 ## 📚 Features
